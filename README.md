@@ -40,4 +40,7 @@ Identity guidelines are not meant to destroy creativity. They exist to bring con
 
 For that reason, these guidelines do not harm (or even reach) fan art, which should be always thankfully welcomed.
 
+## License
 
+This is using a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/4.0/) license.
+  
