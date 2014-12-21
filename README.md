@@ -20,8 +20,16 @@ Most of the artwork here is created using Inkscape, so it will be the better cho
 
 Everything is a proposal, but some choices had been made by observation and having feedback from the community. 
 
-Some identity pieces are still to be discovered, as the font, colors, copywriting style (voice), and some identity elements
-as the dandelion imagery, which has been largely used and it's widely accepted by the community as a part of Diaspora*'s identity.
+### Font
+
+Titillium font was my proposal, since I think it's quite unique an different from every other sans serif font, and it's under an OFL license, but I considered another options. 
+
+Mainly, it's biggest competitor was **Montserrat** (http://www.fontspace.com/julieta-ulanovsky/montserrat), a font which is very close to the commercial Proxima Nova, but under a SIL font license. Montserrat is a beautiful round sans-serif font, which I think may be better for the Diaspora* UI, not for communicating.
+
+### Colors and other stuff
+
+Some identity pieces are still to be discovered, as the colors, copywriting style (voice), and some identity elements
+as the dandelion imagery, which has been largely used and it's widely accepted by the community as a part of Diaspora*'s identity. Feedback is welcome.
 
 This is a work in progress and most of it is guidelines, which means you can use it or not, but sticking to some 
 guidelines will give Diaspora* a wider sense of branding, which will be helpful in general for every aspect of the project.
