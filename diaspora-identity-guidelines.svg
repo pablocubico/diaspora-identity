@@ -777,10 +777,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1606783"
-     inkscape:cx="584.52679"
-     inkscape:cy="640.77276"
+     inkscape:cx="432.02975"
+     inkscape:cy="527.04615"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -946,10 +946,10 @@
          id="flowPara4428"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Titillium;-inkscape-font-specification:Titillium">Diaspora Identity Guidelines - by pablocubico@joindiaspora.com - revision 1</flowPara></flowRoot>  </g>
   <g
-     inkscape:label="Page1"
+     inkscape:label="Logo"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none">
+     style="display:inline">
     <g
        id="g3827"
        transform="matrix(1.021866,0,0,1.021866,-5.7078564,300.35146)">
@@ -1590,9 +1590,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Page2"
-     style="display:none"
-     sodipodi:insensitive="true">
+     inkscape:label="Icon"
+     style="display:none">
     <rect
        style="fill:#00112b;stroke:none"
        id="rect5948"
@@ -1604,7 +1603,7 @@
        xml:space="preserve"
        id="flowRoot3326-9"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(3.6353039,48.687766)"><flowRegion
+       transform="translate(3.6353039,80.687766)"><flowRegion
          id="flowRegion3328-7"><rect
            id="rect3330-6"
            width="183.50847"
@@ -1617,15 +1616,15 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="61.153965"
-       y="201.25853"
+       y="213.25853"
        id="text3334-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3336-3"
          x="61.153965"
-         y="201.25853"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Isotype <tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#808080;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
+         y="213.25853"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light">Isotype <tspan
+   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#808080;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
    id="tspan5766">(aka &quot;Asterisk&quot;)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1650,7 +1649,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(3.6353039,328.68777)"
+       transform="translate(3.6353039,348.68777)"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot5856"
        xml:space="preserve"><flowRegion
@@ -1669,7 +1668,7 @@
        x="61.153965"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#000000;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
          y="481.25854"
          x="61.153965"
          id="tspan5866"
@@ -1789,7 +1788,7 @@
          id="tspan5995"
          x="61.153965"
          y="741.25854"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#000000;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Samples</tspan></text>
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light">Samples</tspan></text>
     <g
        id="g6126"
        transform="matrix(0.83697842,0,0,0.83697842,-1.7880742,270.50263)">
@@ -1926,7 +1925,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="IsoLogo"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:url(#linearGradient3895);fill-opacity:1;stroke:none"
        id="rect3828"
@@ -2254,7 +2253,7 @@
            x="334"
            y="674.36218" /></flowRegion><flowPara
          id="flowPara4032" /></flowRoot>    <path
-       style="display:inline;fill:#1a1a1a"
+       style="fill:#1a1a1a;display:inline"
        inkscape:connector-curvature="0"
        d="m 103.59884,366.30355 c -7.28089,0 -13.18315,5.90226 -13.18315,13.18316 0,7.2806 5.90226,13.18286 13.18315,13.18286 7.28062,0 13.18317,-5.90226 13.18317,-13.18286 0,-7.2809 -5.90255,-13.18316 -13.18317,-13.18316 z m 1.92514,22.16833 c -0.0101,0.0596 -0.0541,0.10783 -0.11243,0.12286 -0.48812,0.12841 -1.2318,0.28139 -2.00162,0.28139 -1.16207,0 -2.01759,-0.3164 -2.54257,-0.9409 -0.56798,-0.67519 -0.74,-1.68399 -0.51147,-2.99875 l 1.04597,-5.84667 h -1.80717 c -0.0456,0 -0.0888,-0.0201 -0.11796,-0.055 -0.0292,-0.0349 -0.0411,-0.0811 -0.0332,-0.12564 l 0.44235,-2.46056 c 0.0131,-0.0731 0.0767,-0.12656 0.15114,-0.12656 h 5.11464 c 0.0455,0 0.0885,0.0201 0.11795,0.055 0.0292,0.035 0.0414,0.0808 0.0332,0.12563 l -1.54854,8.62547 c -0.073,0.42759 -0.0409,0.71666 0.0989,0.88253 0.11827,0.14039 0.33514,0.20858 0.66229,0.20858 0.38613,0 0.80974,-0.0753 1.1922,-0.21227 0.0516,-0.0188 0.10843,-0.008 0.15051,0.0268 0.0418,0.035 0.0617,0.0897 0.0529,0.14345 l -0.38704,2.29468 z m -1.45052,-13.63933 c -1.22813,0 -2.22709,-0.99897 -2.22709,-2.2271 0,-1.22782 0.99896,-2.22679 2.22709,-2.22679 1.22782,0 2.22678,0.99897 2.22678,2.22679 0,1.22784 -0.99896,2.2271 -2.22678,2.2271 z"
        id="path3827" />
@@ -2272,10 +2271,110 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Typography"
+     style="display:none">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect3749"
+       width="645.74658"
+       height="338.34644"
+       x="50.889503"
+       y="252.51489" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3326-9-17"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-5.3368096,3.34259)"><flowRegion
+         id="flowRegion3328-7-4"><rect
+           id="rect3330-6-0"
+           width="340.99084"
+           height="93.636551"
+           x="57.765804"
+           y="159.93944"
+           style="font-size:20px;fill:#666666" /></flowRegion><flowPara
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara3682">For <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3710">paragraphs</flowSpan> in just about every piece of Diaspora's communication, we use the OFL License Font <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3706">Titillium</flowSpan> (v2.0), a sans-serif font with great personality, the font foundry </flowPara><flowPara
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara3700">is <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3708">Campi Visivi, Fine Arts Academy of Urbino</flowSpan>, Italy.</flowPara><flowPara
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara3726" /><flowPara
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara3728">For <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3730">titles</flowSpan>, we use the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3732">Titillium Light</flowSpan> flavour.</flowPara><flowPara
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara3702" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="52.181854"
+       y="149.91333"
+       id="text3334-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3336-3-8"
+         x="52.181854"
+         y="149.91333"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light">Typography</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3653"
+       y="323.38394"
+       x="136.44643"
+       style="font-size:25.13924599px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
+         y="323.38394"
+         x="136.44643"
+         sodipodi:role="line"
+         id="tspan3678">The following is an </tspan><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
+         y="353.38394"
+         x="136.44643"
+         sodipodi:role="line"
+         id="tspan3739">excerpt from Don Quixote</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3690"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.3069978,0,0,1.3069978,-401.50952,53.522829)"><flowRegion
+         id="flowRegion3692"><rect
+           id="rect3694"
+           width="349.34958"
+           height="123.09759"
+           x="411.9299"
+           y="260.13638"
+           style="fill:#666666" /></flowRegion><flowPara
+         id="flowPara3698"
+         style="font-size:9.18134689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium">Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello. No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales. Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete; y sin duda alguna lo hiciera, y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-5.3368096,435.34259)"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot3777"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3779"><rect
+           style="font-size:20px;fill:#666666"
+           y="159.93944"
+           x="57.765804"
+           height="40.68396"
+           width="454.46069"
+           id="rect3781" /></flowRegion><flowPara
+         id="flowPara3801"
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">To see the full speciment, check the <flowSpan
+   style="font-weight:600;-inkscape-font-specification:Titillium Semi-Bold Oblique"
+   id="flowSpan3820">assets/fonts</flowSpan> directory in this repo. License is included.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Page3"
-     style="display:none"
-     sodipodi:insensitive="true">
+     inkscape:label="Samples"
+     style="display:none">
     <rect
        style="fill:#000000;stroke:#666666;stroke-width:0.23385605;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5357"
@@ -2362,7 +2461,7 @@
          sodipodi:role="line"
          x="108.60635"
          y="139.46019"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
          id="tspan4343-2-9">Proper use of wordmark in UI elements</tspan></text>
     <flowRoot
        transform="translate(51.51261,-13.655447)"
@@ -2525,7 +2624,7 @@
          sodipodi:role="line"
          x="109.09855"
          y="401.39145"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
          id="tspan4343-2-9-1">Some improper use samples</tspan></text>
     <flowRoot
        transform="translate(52.555579,248.27583)"
@@ -2840,105 +2939,4 @@
          y="359.65915" />
     </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Typography"
-     style="display:none">
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect3749"
-       width="645.74658"
-       height="338.34644"
-       x="50.889503"
-       y="252.51489" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3326-9-17"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(-5.3368096,3.34259)"><flowRegion
-         id="flowRegion3328-7-4"><rect
-           id="rect3330-6-0"
-           width="340.99084"
-           height="93.636551"
-           x="57.765804"
-           y="159.93944"
-           style="font-size:20px;fill:#666666" /></flowRegion><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
-         id="flowPara3682">For <flowSpan
-   style="font-weight:bold"
-   id="flowSpan3710">paragraphs</flowSpan> in just about every piece of Diaspora's communication, we use the OFL License Font <flowSpan
-   style="font-weight:bold"
-   id="flowSpan3706">Titillium</flowSpan> (v2.0), a sans-serif font with great personality, the font foundry </flowPara><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
-         id="flowPara3700">is <flowSpan
-   style="font-weight:bold"
-   id="flowSpan3708">Campi Visivi, Fine Arts Academy of Urbino</flowSpan>, Italy.</flowPara><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
-         id="flowPara3726" /><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
-         id="flowPara3728">For <flowSpan
-   style="font-weight:bold"
-   id="flowSpan3730">titles</flowSpan>, we use the <flowSpan
-   style="font-weight:bold"
-   id="flowSpan3732">Titillium Light</flowSpan> flavour.</flowPara><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
-         id="flowPara3702" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="52.181854"
-       y="149.91333"
-       id="text3334-0-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3336-3-8"
-         x="52.181854"
-         y="149.91333"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light">Typography</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3653"
-       y="323.38394"
-       x="136.44643"
-       style="font-size:25.13924599px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
-         y="323.38394"
-         x="136.44643"
-         sodipodi:role="line"
-         id="tspan3678">The following is an </tspan><tspan
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;text-anchor:start;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
-         y="353.38394"
-         x="136.44643"
-         sodipodi:role="line"
-         id="tspan3739">excerpt from Don Quixote</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3690"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.3069978,0,0,1.3069978,-401.50952,53.522829)"><flowRegion
-         id="flowRegion3692"><rect
-           id="rect3694"
-           width="349.34958"
-           height="123.09759"
-           x="411.9299"
-           y="260.13638"
-           style="fill:#666666" /></flowRegion><flowPara
-         id="flowPara3698"
-         style="font-size:9.18134689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium">Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello. No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales. Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete; y sin duda alguna lo hiciera, y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-5.3368096,435.34259)"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       id="flowRoot3777"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3779"><rect
-           style="font-size:20px;fill:#666666"
-           y="159.93944"
-           x="57.765804"
-           height="40.68396"
-           width="454.46069"
-           id="rect3781" /></flowRegion><flowPara
-         id="flowPara3801"
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">To see the full speciment, check the <flowSpan
-   style="font-weight:600;-inkscape-font-specification:Titillium Semi-Bold Oblique"
-   id="flowSpan3820">assets/fonts</flowSpan> directory in this repo. License is included.</flowPara></flowRoot>  </g>
 </svg>
