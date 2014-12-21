@@ -19,6 +19,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3889">
+      <stop
+         style="stop-color:#dbe3de;stop-opacity:1;"
+         offset="0"
+         id="stop3891" />
+      <stop
+         style="stop-color:#dbe3de;stop-opacity:0;"
+         offset="1"
+         id="stop3893" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3767">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -746,6 +758,16 @@
            sodipodi:type="arc" />
       </g>
     </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3889"
+       id="linearGradient3895"
+       x1="125.12007"
+       y1="360.97635"
+       x2="125.12007"
+       y2="489.03128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1607843,0,-55.961803)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -754,18 +776,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4541309"
-     inkscape:cx="394.45664"
-     inkscape:cy="624.74398"
+     inkscape:zoom="1.1606783"
+     inkscape:cx="584.52679"
+     inkscape:cy="640.77276"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-grids="false"
@@ -1904,20 +1926,19 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="IsoLogo"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="fill:#dbe3de;stroke:none"
+       style="fill:url(#linearGradient3895);fill-opacity:1;stroke:none"
        id="rect3828"
        width="603.00397"
-       height="109.84956"
+       height="127.51165"
        x="70.895821"
        y="348.05511" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3326-9-1"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(-5.7013874,28.7767)"><flowRegion
+       transform="translate(-5.7013874,40.7767)"><flowRegion
          id="flowRegion3328-7-7"><rect
            id="rect3330-6-4"
            width="191.10596"
@@ -1936,14 +1957,14 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="51.81728"
-       y="181.34746"
+       y="173.34746"
        id="text3334-0-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3336-3-4"
          x="51.81728"
-         y="181.34746"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Isologo </tspan></text>
+         y="173.34746"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light">Isologo </tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 259.71419,147.76101 0,169.2216"
@@ -2024,7 +2045,7 @@
            style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-3.46322155px;word-spacing:0px;fill:#000000;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
            id="flowPara2991-0-1-6">diaspora*</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="translate(34.298613,228.7767)"
+       transform="translate(72.298613,238.7767)"
        style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot3785"
        xml:space="preserve"><flowRegion
@@ -2032,8 +2053,8 @@
            style="font-size:20px;fill:#666666"
            y="159.93944"
            x="57.765804"
-           height="51.926693"
-           width="561.94562"
+           height="50.5513"
+           width="510.36841"
            id="rect3789" /></flowRegion><flowPara
          style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3820">As you may have noticed, the isologotype includes the wordmark with its own asterisk. </flowPara><flowPara
@@ -2041,13 +2062,13 @@
          id="flowPara3826">The rationale behind that is simple: the isologo is the inclusion of both the logo and the isotype, and the logo should be treated as is. The single word &quot;diaspora&quot; in Roboto font with no asterisk is not Diaspora's logo, and despite of the isologo looking more balanced without the ending asterisk is not enough reason to mutilate the logo in any way.</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text3801"
-       y="375.34747"
-       x="91.817276"
+       y="383.34747"
+       x="129.81729"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
-         y="375.34747"
-         x="91.817276"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
+         y="383.34747"
+         x="129.81729"
          id="tspan3803"
          sodipodi:role="line">A note on Isologotype and asterisk duplication</tspan></text>
     <text
@@ -2060,7 +2081,7 @@
          sodipodi:role="line"
          x="110.35498"
          y="559.58069"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Titillium Lt;-inkscape-font-specification:Titillium Lt Light"
          id="tspan4343-2-9-1-6">Some improper use samples</tspan></text>
     <flowRoot
        transform="translate(53.812013,406.46511)"
@@ -2232,7 +2253,23 @@
            height="37"
            x="334"
            y="674.36218" /></flowRegion><flowPara
-         id="flowPara4032" /></flowRoot>  </g>
+         id="flowPara4032" /></flowRoot>    <path
+       style="display:inline;fill:#1a1a1a"
+       inkscape:connector-curvature="0"
+       d="m 103.59884,366.30355 c -7.28089,0 -13.18315,5.90226 -13.18315,13.18316 0,7.2806 5.90226,13.18286 13.18315,13.18286 7.28062,0 13.18317,-5.90226 13.18317,-13.18286 0,-7.2809 -5.90255,-13.18316 -13.18317,-13.18316 z m 1.92514,22.16833 c -0.0101,0.0596 -0.0541,0.10783 -0.11243,0.12286 -0.48812,0.12841 -1.2318,0.28139 -2.00162,0.28139 -1.16207,0 -2.01759,-0.3164 -2.54257,-0.9409 -0.56798,-0.67519 -0.74,-1.68399 -0.51147,-2.99875 l 1.04597,-5.84667 h -1.80717 c -0.0456,0 -0.0888,-0.0201 -0.11796,-0.055 -0.0292,-0.0349 -0.0411,-0.0811 -0.0332,-0.12564 l 0.44235,-2.46056 c 0.0131,-0.0731 0.0767,-0.12656 0.15114,-0.12656 h 5.11464 c 0.0455,0 0.0885,0.0201 0.11795,0.055 0.0292,0.035 0.0414,0.0808 0.0332,0.12563 l -1.54854,8.62547 c -0.073,0.42759 -0.0409,0.71666 0.0989,0.88253 0.11827,0.14039 0.33514,0.20858 0.66229,0.20858 0.38613,0 0.80974,-0.0753 1.1922,-0.21227 0.0516,-0.0188 0.10843,-0.008 0.15051,0.0268 0.0418,0.035 0.0617,0.0897 0.0529,0.14345 l -0.38704,2.29468 z m -1.45052,-13.63933 c -1.22813,0 -2.22709,-0.99897 -2.22709,-2.2271 0,-1.22782 0.99896,-2.22679 2.22709,-2.22679 1.22782,0 2.22678,0.99897 2.22678,2.22679 0,1.22784 -0.99896,2.2271 -2.22678,2.2271 z"
+       id="path3827" />
+    <text
+       style="font-size:7.71917677px;font-weight:bold;fill:#999999;display:inline;font-family:'Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif'"
+       x="71.407341"
+       y="485.55634"
+       font-size="5.0"
+       font-weight="bold"
+       id="text3829">
+      <tspan
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Titillium;-inkscape-font-specification:Titillium"
+         id="tspan3871">Icon by Melvin Poppelaars from the Noun Project</tspan>
+    </text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -2807,7 +2844,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Typography"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        id="rect3749"
