@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="diaspora-identity.svg">
+   sodipodi:docname="diaspora-identity-guidelines.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -743,11 +743,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0564516"
-     inkscape:cx="362"
-     inkscape:cy="355.26471"
+     inkscape:zoom="1.4541309"
+     inkscape:cx="538.67473"
+     inkscape:cy="213.76376"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -807,7 +807,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -916,8 +916,7 @@
      inkscape:label="Page1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g3827"
        transform="matrix(1.021866,0,0,1.021866,-5.7078564,300.35146)">
@@ -1385,15 +1384,11 @@
            x="57.765804"
            y="159.93944"
            style="font-size:20px;fill:#666666" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
-         id="flowPara5451">Wordmark logo uses <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Segoe UI Bold Oblique"
-   id="flowSpan5463">Roboto Bold</flowSpan>, </flowPara><flowPara
-         style="font-size:12px;font-style:oblique;fill:#666666;-inkscape-font-specification:Sans Oblique"
-         id="flowPara5459"><flowSpan
-   style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
-   id="flowSpan5461">a </flowSpan>round and wide sans serif font.</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;fill:#666666;-inkscape-font-specification:Sans Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara5451">Wordmark logo uses Roboto Bold, </flowPara><flowPara
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
+         id="flowPara5459">a round and wide sans serif font.</flowPara><flowPara
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5457">To make the logo stand out, Roboto shouldn't be used anywhere else.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1405,8 +1400,8 @@
          id="tspan3336"
          x="51.518669"
          y="192.57076"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">Logo <tspan
-   style="fill:#808080"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Logo <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#808080;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
    id="tspan3848">(Wordmark)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1426,7 +1421,7 @@
            y="159.93944"
            style="font-size:20px;fill:#666666" /></flowRegion><flowPara
          id="flowPara3332-3"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique">Always save some space around the wordmark when including the logo in your design, as shown in this picture.</flowPara></flowRoot>    <text
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">Always save some space around the wordmark when including the logo in your design, as shown in this picture.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="51.518669"
@@ -1436,7 +1431,7 @@
          sodipodi:role="line"
          x="51.518669"
          y="445.33783"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          id="tspan4343">Spacing</tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1541,7 +1536,7 @@
          sodipodi:role="line"
          x="51.156738"
          y="669.88269"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          id="tspan4343-2">Wordmark over colored backgrounds</tspan></text>
     <flowRoot
        transform="translate(-6.0000032,516.76707)"
@@ -1555,7 +1550,7 @@
            height="33.444138"
            width="461.50848"
            id="rect4398" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara4400">Use the black or white wordmark depending on which one works for better contrast.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
@@ -1581,7 +1576,7 @@
            x="57.765804"
            y="159.93944"
            style="font-size:20px;fill:#666666" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5457-0">Isotype is the asterisk from the wordmark, extracted as an icon.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1593,8 +1588,8 @@
          id="tspan3336-3"
          x="61.153965"
          y="201.25853"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">Isotype <tspan
-   style="fill:#808080"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Isotype <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#808080;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
    id="tspan5766">(aka &quot;Asterisk&quot;)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -1631,14 +1626,14 @@
            width="183.50847"
            id="rect5860" /></flowRegion><flowPara
          id="flowPara5862"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique">When enclosing, use the inverted version with a dark background preferably, and preserve space around the isotype too, as in the wordmark.</flowPara></flowRoot>    <text
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">When enclosing, use the inverted version with a dark background preferably, and preserve space around the isotype too, as in the wordmark.</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text5864"
        y="481.25854"
        x="61.153965"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#000000;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          y="481.25854"
          x="61.153965"
          id="tspan5866"
@@ -1659,7 +1654,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.64547452,0,0,0.64547452,99.842076,130.15203)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -1746,7 +1741,7 @@
            x="57.765804"
            y="159.93944"
            style="font-size:20px;fill:#666666" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5991">Using the isotype only.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1758,7 +1753,7 @@
          id="tspan5995"
          x="61.153965"
          y="741.25854"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">Samples</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#000000;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Samples</tspan></text>
     <g
        id="g6126"
        transform="matrix(0.83697842,0,0,0.83697842,-1.7880742,270.50263)">
@@ -1770,7 +1765,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.64547452,0,0,0.64547452,-164.69143,437.71705)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -1824,7 +1819,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.64547452,0,0,0.64547452,170.41103,440.39066)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -1915,13 +1910,13 @@
            x="57.765804"
            y="159.93944"
            style="font-size:20px;fill:#666666" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3838">Mixing the icon and the wordmark should respect the same spacing principles applied to both elements. </flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3842">Logo and isotype are arranged vertically using the same width.</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3681">Use exclusively when such a </flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3683">vertical arrangement is needed.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1933,7 +1928,7 @@
          id="tspan3336-3-4"
          x="51.81728"
          y="181.34746"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">Isologo </tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold">Isologo </tspan></text>
     <path
        style="fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 259.71419,147.76101 0,169.2216"
@@ -1980,7 +1975,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.48399421,0,0,0.48399421,119.21908,-24.441066)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -2025,9 +2020,9 @@
            height="51.926693"
            width="561.94562"
            id="rect3789" /></flowRegion><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3820">As you may have noticed, the isologotype includes the wordmark with its own asterisk. </flowPara><flowPara
-         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:10px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara3826">The rationale behind that is simple: the isologo is the inclusion of both the logo and the isotype, and the logo should be treated as is. The single word &quot;diaspora&quot; in Roboto font with no asterisk is not Diaspora's logo, and despite of the isologo looking more balanced without the ending asterisk is not enough reason to mutilate the logo in any way.</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text3801"
@@ -2035,7 +2030,7 @@
        x="91.817276"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          y="375.34747"
          x="91.817276"
          id="tspan3803"
@@ -2050,7 +2045,7 @@
          sodipodi:role="line"
          x="110.35498"
          y="559.58069"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          id="tspan4343-2-9-1-6">Some improper use samples</tspan></text>
     <flowRoot
        transform="translate(53.812013,406.46511)"
@@ -2064,7 +2059,7 @@
            height="33.444138"
            width="461.50848"
            id="rect4398-8-1-2" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara4400-3-6-8">Inconsistent alterations of the isologo.</flowPara></flowRoot>    <g
        style="display:inline"
        id="g6284-6"
@@ -2075,7 +2070,7 @@
          style="fill:#aa0000">
         <path
            transform="matrix(1.025641,0,0,1.025641,5.3157799,-32.060515)"
-           d="m 973.68371,235.91208 c 0,41.81075 -33.89432,75.70507 -75.70507,75.70507 -41.81076,0 -75.70507,-33.89432 -75.70507,-75.70507 0,-41.81076 33.89431,-75.70507 75.70507,-75.70507 41.81075,0 75.70507,33.89431 75.70507,75.70507 z"
+           d="m 973.68371,235.91208 a 75.70507,75.70507 0 1 1 -151.41014,0 75.70507,75.70507 0 1 1 151.41014,0 z"
            sodipodi:ry="75.70507"
            sodipodi:rx="75.70507"
            sodipodi:cy="235.91208"
@@ -2105,7 +2100,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.48399421,0,0,0.48399421,119.21908,-24.441066)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -2151,7 +2146,7 @@
            y="733.36218"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI" /></flowRegion><flowPara
          id="flowPara3954"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI">The word diaspora with no asterisk, even using Roboto, is not the logo.</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium">The word diaspora with no asterisk, even using Roboto, is not the logo.</flowPara></flowRoot>    <g
        id="g4020"
        transform="matrix(0.48041254,0,0,0.48041254,239.63134,429.63101)">
       <path
@@ -2162,7 +2157,7 @@
          sodipodi:cy="440.14401"
          sodipodi:rx="105.24816"
          sodipodi:ry="105.24816"
-         d="m 581.08843,440.14401 c 0,58.12696 -47.1212,105.24816 -105.24816,105.24816 -58.12695,0 -105.24816,-47.1212 -105.24816,-105.24816 0,-58.12695 47.12121,-105.24816 105.24816,-105.24816 58.12696,0 105.24816,47.12121 105.24816,105.24816 z"
+         d="m 581.08843,440.14401 a 105.24816,105.24816 0 1 1 -210.49632,0 105.24816,105.24816 0 1 1 210.49632,0 z"
          transform="matrix(0.48399421,0,0,0.48399421,124.07594,428.11806)" />
       <g
          style="fill:#ffffff;display:inline"
@@ -2208,10 +2203,10 @@
            y="733.36218"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI" /></flowRegion><flowPara
          id="flowPara3954-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI">On hotizontal layouts,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium">On horizontal layouts,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium"
          id="flowPara4034">just use the wordmark logo.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium"
          id="flowPara4036">Isotype is unneeded.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4026"
@@ -2227,8 +2222,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Page3"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
        style="fill:#000000;stroke:#666666;stroke-width:0.23385605;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5357"
@@ -2315,7 +2309,7 @@
          sodipodi:role="line"
          x="108.60635"
          y="139.46019"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          id="tspan4343-2-9">Proper use of wordmark in UI elements</tspan></text>
     <flowRoot
        transform="translate(51.51261,-13.655447)"
@@ -2329,7 +2323,7 @@
            height="33.444138"
            width="461.50848"
            id="rect4398-8" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara4400-3">Different navbar colors, preserving proper whitespace.</flowPara></flowRoot>    <rect
        style="fill:#a02c2c;stroke:none"
        id="rect4997"
@@ -2478,7 +2472,7 @@
          sodipodi:role="line"
          x="109.09855"
          y="401.39145"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:Titillium Semi-Bold"
          id="tspan4343-2-9-1">Some improper use samples</tspan></text>
     <flowRoot
        transform="translate(52.555579,248.27583)"
@@ -2492,7 +2486,7 @@
            height="33.444138"
            width="461.50848"
            id="rect4398-8-1" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara4400-3-6">Alterations of the logo that hurt identity consistency.</flowPara></flowRoot>    <g
        transform="matrix(0.18461347,0,0,0.28117677,106.20598,479.99044)"
        id="g3397-4-5-8"
@@ -2691,7 +2685,7 @@
            height="19.944138"
            width="82.508484"
            id="rect4398-8-1-0" /></flowRegion><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara4400-3-6-6">Wrong aspect</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5437"
@@ -2705,8 +2699,8 @@
            y="159.93944"
            style="font-size:20px;text-align:center;text-anchor:middle;fill:#666666" /></flowRegion><flowPara
          id="flowPara5443"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique">No space when</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">No space when</flowPara><flowPara
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5445">enclosed</flowPara></flowRoot>    <flowRoot
        transform="translate(451.9189,378.56436)"
        style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2720,12 +2714,12 @@
            width="135.47234"
            id="rect5569" /></flowRegion><flowPara
          id="flowPara5573"
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique">Wrong font (Arial)</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique">Wrong font (Arial)</flowPara><flowPara
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5585">Beware of other sans-serif</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5587">fonts, always use the</flowPara><flowPara
-         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Oblique"
+         style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#666666;font-family:Titillium;-inkscape-font-specification:Titillium Oblique"
          id="flowPara5589">wordmark from our assets</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5575"
@@ -2752,7 +2746,7 @@
            sodipodi:cy="235.91208"
            sodipodi:rx="75.70507"
            sodipodi:ry="75.70507"
-           d="m 973.68371,235.91208 c 0,41.81075 -33.89432,75.70507 -75.70507,75.70507 -41.81076,0 -75.70507,-33.89432 -75.70507,-75.70507 0,-41.81076 33.89431,-75.70507 75.70507,-75.70507 41.81075,0 75.70507,33.89431 75.70507,75.70507 z"
+           d="m 973.68371,235.91208 a 75.70507,75.70507 0 1 1 -151.41014,0 75.70507,75.70507 0 1 1 151.41014,0 z"
            transform="matrix(1.025641,0,0,1.025641,5.3157799,-32.060515)" />
       </g>
       <image
@@ -2774,7 +2768,7 @@
          style="fill:#aa0000">
         <path
            transform="matrix(1.025641,0,0,1.025641,5.3157799,-32.060515)"
-           d="m 973.68371,235.91208 c 0,41.81075 -33.89432,75.70507 -75.70507,75.70507 -41.81076,0 -75.70507,-33.89432 -75.70507,-75.70507 0,-41.81076 33.89431,-75.70507 75.70507,-75.70507 41.81075,0 75.70507,33.89431 75.70507,75.70507 z"
+           d="m 973.68371,235.91208 a 75.70507,75.70507 0 1 1 -151.41014,0 75.70507,75.70507 0 1 1 151.41014,0 z"
            sodipodi:ry="75.70507"
            sodipodi:rx="75.70507"
            sodipodi:cy="235.91208"
@@ -2796,5 +2790,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Typography" />
+     inkscape:label="Typography"
+     style="display:none"
+     sodipodi:insensitive="true" />
 </svg>
